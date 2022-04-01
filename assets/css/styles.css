@@ -837,7 +837,7 @@ input {
     justify-content: center;
   }
   .place__container {
-    grid-template-columns: repeat(3, max-content);
+    grid-template-columns: repeat(4, max-content);
   }
   .subscribe__form {
     width: 470px;
