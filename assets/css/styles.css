@@ -253,8 +253,8 @@ input {
 
 .nav__close {
   position: absolute;
-  top: .75rem;
-  right: 1rem;
+  top: .7rem;
+  right: .9rem;
   font-size: 1.5rem;
   color: var(--title-color);
   cursor: pointer;
